@@ -34,6 +34,7 @@
     I started playing soccer when I was 5 years old and now I play it every Sunday with my friends.
     My favourite badminton player is Lee Chong Wei and my favourite soccer player is Lionel Messi.
     </p>
+    <img src="istockphoto-466766434-612x612.jpg"> 
 
 <table>
         <tr>
@@ -57,7 +58,7 @@
     </table>
 
     
-<img src="istockphoto-466766434-612x612.jpg">  
+ 
     
 </body>
 </html>
