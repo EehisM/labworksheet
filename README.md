@@ -11,30 +11,30 @@
         <h1>Mishel's hobbies</h1>
     </div>
 
-    <h2>Unordered list</h2>
+<h2>Unordered list</h2>
 
-    <ul>
+<ul>
         <li>badminton</li>
         <li>gaming</li>
         <li>soccer</li>
     </ul>
 
-    <h2>Ordered list</h2>
+<h2>Ordered list</h2>
 
-    <ol>
+<ol>
         <li>badminton</li>
         <li>gaming</li>
         <li>soccer</li>
     </ol>
 
-    <p>I started playing badminton when I was in 6th class
+<p>I started playing badminton when I was in 6th class
     and now I play it every weekend with my friends. I started playing competitively when I was 14 years old.
     I got interested in gaming when I was 10 years old and now I play games like Call of Duty and FIFA.
     I started playing soccer when I was 5 years old and now I play it every Sunday with my friends.
     My favourite badminton player is Lee Chong Wei and my favourite soccer player is Lionel Messi.
     </p>
 
-    <table>
+<table>
         <tr>
             <th>hobbies</th>
             <th>equipment</th>
