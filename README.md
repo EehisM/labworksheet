@@ -27,7 +27,8 @@
         <li>soccer</li>
     </ol>
 
-<p>I started playing badminton when I was in 6th class
+<p>
+    I started playing badminton when I was in 6th class
     and now I play it every weekend with my friends. I started playing competitively when I was 14 years old.
     I got interested in gaming when I was 10 years old and now I play games like Call of Duty and FIFA.
     I started playing soccer when I was 5 years old and now I play it every Sunday with my friends.
